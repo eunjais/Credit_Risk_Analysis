@@ -2,6 +2,17 @@
 
 ## Overview
 
+The Credit Risk Analysis attempts to evaluate credit risk of customers using six different machine learning models. The algorothms that are used in this analysis are: 
+- Cluster Centroids Undersampling
+- Combination Sampling
+- SMOTE Oversampling
+- Native Random Oversampling
+- Balanced Random Forest Classifier
+- Easy Ensemble AdaBoost Classifer
+
+With the latter being bias reduction models. Following the results, each supervised learning algorithm's accuracy levels as well as F-scores were compared to determine the best algorithm to use for the given credit risk dataset. 
+
+
 ## Results 
 
 ### Learning Model 1 - Cluster Centroids Undersampling
